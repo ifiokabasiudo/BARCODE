@@ -1,0 +1,67 @@
+/* BRAND */
+.brand-appearance{
+  font-weight: bold;
+  margin-left: 3%
+}
+.code-color{
+  color: #F06456;
+}
+
+.container-appearance{
+  color: #3F3F3F;
+}
+
+/* ITEMS */
+
+.item-appearance{
+  margin-left: 15%;
+  display: inline-block;
+  white-space: nowrap;
+}
+
+/* BUTTONS */
+.btn-appearance{
+  margin: 0 0.8%;
+}
+
+/* ROW */
+.row-appearance{
+  text-align: left;
+  padding: 5% 0;
+}
+/* CARDS */
+.cards{
+  margin: 3% 0;
+  color: #7F7F7F;
+}
+.ci{
+  margin-left: 2%;
+}
+/* IMAGE */
+.phone{
+  width: 75%;
+  transform: rotate(30deg);
+  position: absolute;
+  right: 25%;
+  top:20%;
+}
+.phone-col{
+  position: relative;
+}
+
+/* HEADING */
+.heading{
+  margin-bottom: 10%;
+  width: 70%;
+}
+.mobile-waiter{
+  margin-bottom: 5%;
+}
+.content{
+  width: 60%;
+}
+
+/* CONTENT BUTTON */
+.buttons{
+  margin-top: 7%;
+}
